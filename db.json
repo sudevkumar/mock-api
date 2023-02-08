@@ -10,5 +10,12 @@
       "status ": false,
       "id": 2
     }
+  ],
+
+  "product": [
+    {
+      "name": "Poco",
+      "price": 19900
+    }
   ]
 }
