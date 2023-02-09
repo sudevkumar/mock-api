@@ -29,6 +29,18 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+
+    {
+      "id": 2,
+      "image_url": "https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg",
+      "book_name": "Zoo",
+      "author": "Sudev",
+      "genre": "scice",
+      "edition": "2023",
+      "publisher": "Sudev",
+      "cost": 1400,
+      "borrowed": false
     }
   ]
 }
