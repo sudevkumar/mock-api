@@ -43,8 +43,6 @@
       "borrowed": false
     }
   ],
-
-  "user": [],
   "blog": [
     {
       "id": 1,
@@ -73,7 +71,7 @@
       ]
     }
   ],
-  "Credentials": [],
+  "users": [],
   "companies": [
     {
       "id": 1,
